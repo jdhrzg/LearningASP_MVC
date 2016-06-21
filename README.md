@@ -4,4 +4,4 @@ https://www.youtube.com/playlist?list=PL6n9fhu94yhVm6S8I2xd6nYz2ZORd7X2v
 
 
 <b>I Have Completed:</b><br>
-- Part 3 - Creating my first MVC app.
+- <a href="https://www.youtube.com/watch?v=KvTy_FAYjks&list=PL6n9fhu94yhVm6S8I2xd6nYz2ZORd7X2v&index=3">Part 3 - Creating my first MVC app.</a>

@@ -8,9 +8,9 @@ namespace FollowAlongMVC.Controllers
 {
     public class HomeController : Controller
     {
-        public string Index()
+        public string Index(string id, string name)
         {
-            return "Hello World - Index()";
+            return "Id = " + id + " Name = " + name;
         }
 
         public string GetDetails()

@@ -5,7 +5,7 @@
 
 <h2>Countries List</h2>
 <ul>
-    @foreach (string country in ViewBag.Countries)
+    @foreach (string country in (List<string>)ViewData["Countries"])
     {
         <li>@country</li>
     }    

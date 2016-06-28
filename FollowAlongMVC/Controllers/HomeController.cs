@@ -8,14 +8,17 @@ namespace FollowAlongMVC.Controllers
 {
     public class HomeController : Controller
     {
-        public string Index(string id, string name)
+        public ActionResult Index()
         {
-            return "Id = " + id + " Name = " + name;
-        }
+            ViewBag.Countries = new List<string>
+            {
+                "India",
+                "US",
+                "UK",
+                "Canada"
+            };
 
-        public string GetDetails()
-        {
-            return "Hello World - GetDetails()";
+            return View();
         }
     }
 }

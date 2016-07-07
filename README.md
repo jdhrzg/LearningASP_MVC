@@ -9,3 +9,6 @@ https://www.youtube.com/playlist?list=PL6n9fhu94yhVm6S8I2xd6nYz2ZORd7X2v
 - <a href="https://www.youtube.com/watch?v=N6srbKfNcV4&list=PL6n9fhu94yhVm6S8I2xd6nYz2ZORd7X2v&index=5">Part 5 Views in an mvc application</a>
 - <a href="https://www.youtube.com/watch?v=KrdMO2akohE&index=6&list=PL6n9fhu94yhVm6S8I2xd6nYz2ZORd7X2v">Part 6 ViewData and ViewBag in mvc</a>
 - <a href="https://www.youtube.com/watch?v=KYOMgtZ4k3w&list=PL6n9fhu94yhVm6S8I2xd6nYz2ZORd7X2v&index=7">Part 7 Models in an mvc application</a>
+
+<b>Learning Microsoft SQL Server Management Studio - Needed for completion of Part 8:</b><br>
+- <a href="https://www.youtube.com/watch?v=ZNObiptSMSI&list=PL08903FB7ACA1C2FB">Connecting to SQL Server using SSMS - Part 1</a>

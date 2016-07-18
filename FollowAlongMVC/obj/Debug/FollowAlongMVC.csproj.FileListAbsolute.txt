@@ -44,3 +44,7 @@ C:\Users\Jerod\Documents\GitHub\LearningASP_MVC\FollowAlongMVC\bin\System.Web.Mv
 C:\Users\Jerod\Documents\GitHub\LearningASP_MVC\FollowAlongMVC\obj\Debug\FollowAlongMVC.csprojResolveAssemblyReference.cache
 C:\Users\Jerod\Documents\GitHub\LearningASP_MVC\FollowAlongMVC\obj\Debug\FollowAlongMVC.dll
 C:\Users\Jerod\Documents\GitHub\LearningASP_MVC\FollowAlongMVC\obj\Debug\FollowAlongMVC.pdb
+C:\Users\Jerod\Documents\GitHub\LearningASP_MVC\FollowAlongMVC\bin\EntityFramework.dll
+C:\Users\Jerod\Documents\GitHub\LearningASP_MVC\FollowAlongMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Jerod\Documents\GitHub\LearningASP_MVC\FollowAlongMVC\bin\EntityFramework.xml
+C:\Users\Jerod\Documents\GitHub\LearningASP_MVC\FollowAlongMVC\bin\EntityFramework.SqlServer.xml

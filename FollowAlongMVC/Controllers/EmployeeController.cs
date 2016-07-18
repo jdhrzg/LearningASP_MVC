@@ -10,10 +10,10 @@ namespace FollowAlongMVC.Controllers
 {
     public class EmployeeController : Controller
     {
-        public ActionResult Details(int id)
+        public ActionResult GetEmployeeByID(int id)
         {
             EmployeeContext employeeContext = new EmployeeContext();
-            Employee employee = employeeContext.Employees.Single(emp => emp.EmployeeId == id);
+            Employee employee = employeeContext.EmployeeSet.Single(emp => emp.ID == id);
 
             return View(employee);
         }

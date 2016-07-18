@@ -6,8 +6,11 @@ using System.Web;
 
 namespace FollowAlongMVC.Models
 {
+    /// <summary>
+    /// Establishes connection to database
+    /// </summary>
     public class EmployeeContext : DbContext
     {
-        public DbSet<Employee> Employees { get; set; }
+        public DbSet<Employee> EmployeeSet { get; set; }
     }
 }

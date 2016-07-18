@@ -1,7 +1,7 @@
 ﻿@model FollowAlongMVC.Models.Employee
 
 @{
-    ViewBag.Title = "Employee Details";
+    ViewBag.Title = "Employee By ID";
 }
 
 <h2>Employee Details</h2>
@@ -12,7 +12,7 @@
             <b>Id:</b>
         </td>
         <td>
-            @Model.EmployeeId
+            @Model.ID
         </td>
     </tr>
     <tr>
@@ -21,14 +21,6 @@
         </td>
         <td>
             @Model.Name
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Gender:</b>
-        </td>
-        <td>
-            @Model.Gender
         </td>
     </tr>
     <tr>

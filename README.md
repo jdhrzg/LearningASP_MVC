@@ -15,3 +15,4 @@ https://www.youtube.com/playlist?list=PL6n9fhu94yhVm6S8I2xd6nYz2ZORd7X2v
  - HTML
  - SQL Server 2014
  - Entity Framework
+ - LINQ
